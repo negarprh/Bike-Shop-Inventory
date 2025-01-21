@@ -1,4 +1,4 @@
-# 🚲 BikeShop Manager
+# 🚲 Bike Shop Manager
  
 *Effortless bike inventory management for bike enthusiasts and shop owners.*
 
