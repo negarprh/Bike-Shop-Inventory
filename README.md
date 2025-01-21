@@ -1,8 +1,6 @@
 # Bike Shop Inventory
 
-![Bike Shop](MyBike/sreenshot/Interface)
-
-MyBikeManager is a Windows Forms application built with C# to manage bike inventory effectively. Whether you're running a bike shop or managing personal collections, this application provides an intuitive interface for handling various bike types like road bikes, mountain bikes, electric bikes, and folding bikes. Serialize and deserialize bike data with XML, and perform bike-specific operations seamlessly.
+Bike Shop Inventory is a Windows Forms application built with C# to manage bike inventory effectively. Whether you're running a bike shop or managing personal collections, this application provides an intuitive interface for handling various bike types like road bikes, mountain bikes, electric bikes, and folding bikes. Serialize and deserialize bike data with XML, and perform bike-specific operations seamlessly.
 
 ---
 
@@ -67,14 +65,14 @@ MyBikeManager/
 
 The application follows an Object-Oriented Design (OOD) structure. Here's the class relationship diagram:
 
-![Class Diagram](https://user-images.githubusercontent.com/your-image-path/class-diagram.png)
+![Class Diagram](MyBike/sreenshot/Diagram.png)
 
 ---
 
 ## Screenshots
 
 ### User Interface
-![User Interface](https://user-images.githubusercontent.com/your-image-path/ui-screenshot.png)
+![User Interface](MyBike/sreenshot/Interface.png)
 
 ---
 
