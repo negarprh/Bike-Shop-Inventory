@@ -1,4 +1,4 @@
-# MyBikeManager
+# Bike Shop Inventory
 
 ![Bike Shop](https://user-images.githubusercontent.com/your-image-path/bike-shop-banner.png)
 
