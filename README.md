@@ -65,14 +65,14 @@ MyBikeManager/
 
 The application follows an Object-Oriented Design (OOD) structure. Here's the class relationship diagram:
 
-![Class Diagram](MyBike/sreenshot/Diagram.png)
+![Class Diagram](sreenshot/Diagram.png)
 
 ---
 
 ## Screenshots
 
 ### User Interface
-![User Interface](MyBike/sreenshot/Interface.png)
+![User Interface](sreenshot/Interface.png)
 
 ---
 
