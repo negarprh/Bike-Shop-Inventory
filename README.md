@@ -38,11 +38,11 @@ Whether you're managing road bikes, mountain bikes, electric bikes, or folding b
 ## 📊 Visual Overview
 
 ### User Interface
-![User Interface](MyBike/screenshots/Interface.png)  
+![User Interface](MyBike/screenshot/Interface.png)  
 *Intuitive design for seamless interaction.*
 
 ### Class Diagram
-![Class Diagram](MyBike/screenshots/Diagram.png)  
+![Class Diagram](MyBike/screenshot/Diagram.png)  
 *An Object-Oriented Design ensuring modularity and scalability.*
 
 ---
@@ -66,7 +66,7 @@ Whether you're managing road bikes, mountain bikes, electric bikes, or folding b
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/Bike-Shop-Manager.git
+git clone https://github.com/negarprh/Bike-Shop-Manager.git
 cd BikeShop-Manager
 ```
 
